@@ -1,10 +1,15 @@
 import React from 'react';
 
+import Header from './../layouts/Header';
+import Footer from './../layouts/Footer';
+import Menu from './../components/Menu';
 export default function App() {
 
     return (
-        <div>
-            <h1>reactjs-pizza-menu</h1>
+        <div className="container">
+            <Header />
+            <Menu />
+            <Footer />
         </div>
 
     );
