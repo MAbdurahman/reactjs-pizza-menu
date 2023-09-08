@@ -1,7 +1,7 @@
 
 export const pizzaData = [
     {
-        name: "Focaccia",
+        name: "Classic Focaccia",
         ingredients: "Bread with italian olive oil and rosemary",
         price: 6,
         photoName: "assets/focaccia.jpg",
@@ -36,7 +36,7 @@ export const pizzaData = [
         soldOut: true,
     },
     {
-        name: "Pizza Prosciutto",
+        name: "Prosciutto Pizza",
         ingredients: "Tomato, mozzarella, ham, arugula, and burrata cheese",
         price: 18,
         photoName: "assets/prosciutto.jpg",
