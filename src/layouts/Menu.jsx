@@ -3,7 +3,9 @@ import React from 'react';
 export default function Menu() {
 
     return (
-        <div>Menu</div>
+        <main className="menu">
+            <h2>Main Menu</h2>
+        </main>
 
     );
 };
